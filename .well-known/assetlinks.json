@@ -1,8 +1,26 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.gabrieltrabajo909.colorin",
-        "sha256_cert_fingerprints": ["CD:F5:89:BB:82:41:E6:FB:11:4B:5D:EC:9F:93:7F:5F:D9:CB:C7:62:70:06:E4:EF:C0:B5:ED:D2:41:46:49:62"]
-      }
-    }]
+[
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "io.github.gabrieltrabajo909.colorin",
+   "sha256_cert_fingerprints": [
+    "CD:F5:89:BB:82:41:E6:FB:11:4B:5D:EC:9F:93:7F:5F:D9:CB:C7:62:70:06:E4:EF:C0:B5:ED:D2:41:46:49:62"
+   ]
+  }
+ },
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "io.github.gabrieltrabajo909.estante",
+   "sha256_cert_fingerprints": [
+    "4E:B1:27:3F:31:2C:68:1C:0B:02:E1:56:73:F2:EC:DA:15:02:5D:DF:1C:BB:6A:06:4B:7E:B9:68:D5:34:56:23"
+   ]
+  }
+ }
+]
