@@ -22,5 +22,17 @@
     "4E:B1:27:3F:31:2C:68:1C:0B:02:E1:56:73:F2:EC:DA:15:02:5D:DF:1C:BB:6A:06:4B:7E:B9:68:D5:34:56:23"
    ]
   }
+ },
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "io.github.gabrieltrabajo909.comunicacion",
+   "sha256_cert_fingerprints": [
+    "C4:78:C4:85:C8:3B:CB:A0:CC:0E:6A:1B:69:62:C0:BF:3E:A0:A8:34:35:2F:FB:5A:79:4B:E5:5C:0D:98:1A:46"
+   ]
+  }
  }
 ]
