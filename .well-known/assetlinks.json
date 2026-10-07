@@ -34,5 +34,17 @@
     "C4:78:C4:85:C8:3B:CB:A0:CC:0E:6A:1B:69:62:C0:BF:3E:A0:A8:34:35:2F:FB:5A:79:4B:E5:5C:0D:98:1A:46"
    ]
   }
+ },
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "io.github.gabrieltrabajo909.mapabjj",
+   "sha256_cert_fingerprints": [
+    "BF:D9:21:27:9D:35:A3:DC:55:BE:AE:EC:2A:42:D1:FC:CD:6A:7B:33:11:6D:E7:31:8B:EF:B3:88:FB:A2:16:D5"
+   ]
+  }
  }
 ]
